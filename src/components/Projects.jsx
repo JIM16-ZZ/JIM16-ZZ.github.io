@@ -47,7 +47,7 @@ const Projects = () => {
       files: []
     },
     {
-      title: 'UCLM Document Tracking System (Web)',
+      title: 'University Document Tracking System',
       description: 'Web-based system that logs every incoming and outgoing document across the university\'s offices. Custody moves only when the receiving office acknowledges, with overdue reminders, printable transmittal slips and formal movement and ageing reports. Role-based access for Super Admin, Department Secretary and Working Scholar.',
       tech: ['React', 'ASP.NET Core', 'MSSQL', 'Dapper', 'Vite', 'Windows Service'],
       image: documentTrackingImage,
