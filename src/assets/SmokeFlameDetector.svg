@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-label="Smoke and flame detector illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fff7ed" />
+      <stop offset="100%" stop-color="#fecaca" />
+    </linearGradient>
+    <linearGradient id="flame" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f97316" />
+      <stop offset="100%" stop-color="#dc2626" />
+    </linearGradient>
+  </defs>
+  <rect width="480" height="320" rx="24" fill="url(#bg)" />
+  <rect x="90" y="110" width="300" height="90" rx="18" fill="#ffffff" stroke="#f59e0b" stroke-width="8" />
+  <circle cx="170" cy="160" r="26" fill="#fde68a" stroke="#f59e0b" stroke-width="8" />
+  <path d="M148 130C148 118.954 156.954 110 168 110H206C217.046 110 226 118.954 226 130V146C226 157.046 217.046 166 206 166H168C156.954 166 148 157.046 148 146V130Z" fill="#fbbf24" />
+  <path d="M250 172C250 150.908 265.908 135 287 135C308.092 135 324 150.908 324 172C324 203.47 287 233 287 233C287 233 250 203.47 250 172Z" fill="url(#flame)" />
+  <path d="M278 171C278 156.059 289.059 145 304 145C318.941 145 330 156.059 330 171C330 193.091 304 214 304 214C304 214 278 193.091 278 171Z" fill="#fca5a5" opacity="0.8" />
+  <path d="M90 70H390" stroke="#cbd5e1" stroke-width="18" stroke-linecap="round" />
+  <path d="M130 120H350" stroke="#f59e0b" stroke-width="18" stroke-linecap="round" />
+  <circle cx="340" cy="150" r="10" fill="#f97316" />
+  <circle cx="360" cy="150" r="10" fill="#f97316" opacity="0.7" />
+</svg>

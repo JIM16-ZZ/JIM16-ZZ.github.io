@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-label="Line follower robot illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#eff6ff" />
+      <stop offset="100%" stop-color="#dbeafe" />
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#00296b" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+  </defs>
+  <rect width="480" height="320" rx="24" ry="24" fill="url(#bg)" />
+  <rect x="32" y="220" width="416" height="48" rx="24" fill="#c7d2fe" />
+  <path d="M160 98C160 84.7452 170.745 74 184 74H296C309.255 74 320 84.7452 320 98V178H160V98Z" fill="#ffffff" stroke="#1d4ed8" stroke-width="8" />
+  <circle cx="212" cy="128" r="16" fill="#3b82f6" />
+  <circle cx="268" cy="128" r="16" fill="#3b82f6" />
+  <path d="M224 166C224 171.523 219.523 176 214 176C208.477 176 204 171.523 204 166" stroke="#1d4ed8" stroke-width="8" stroke-linecap="round" />
+  <rect x="136" y="184" width="208" height="22" rx="11" fill="#c7d2fe" />
+  <rect x="114" y="206" width="36" height="26" rx="8" fill="#93c5fd" />
+  <rect x="330" y="206" width="36" height="26" rx="8" fill="#93c5fd" />
+  <path d="M240 122C240 118.686 237.314 116 234 116H226C222.686 116 220 118.686 220 122V134C220 137.314 222.686 140 226 140H234C237.314 140 240 137.314 240 134V122Z" fill="#bfdbfe" />
+  <path d="M56 246C168 240 216 206 240 206C264 206 312 240 424 246" stroke="url(#line)" stroke-width="22" stroke-linecap="round" />
+  <path d="M120 220C168 210 184 190 240 190C296 190 312 210 360 220" stroke="#1d4ed8" stroke-width="14" stroke-linecap="round" />
+  <circle cx="384" cy="252" r="12" fill="#1d4ed8" />
+  <circle cx="96" cy="252" r="12" fill="#1d4ed8" />
+</svg>
